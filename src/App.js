@@ -7,12 +7,17 @@ export default function App() {
     <div>
       <Header />
       <h1>React App using Parcel</h1>
+      <h2>My name is bluevoice</h2>
+      <h3>i am changing the color of this text</h3>
       <Card title="React" />
+      
       <Card title="Parcel Bundler" />
       <Footer />
     </div>
   );
 }
+
+
 
 
 //{} means name import and export from the component like header, footer
