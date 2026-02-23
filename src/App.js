@@ -9,6 +9,7 @@ export default function App() {
       <h1>React App using Parcel</h1>
       <h2>My name is bluevoice</h2>
       <h3>i am changing the color of this text</h3>
+      <h4> hey  wassup i am the ceo bitch</h4>
       <Card title="React" />
       
       <Card title="Parcel Bundler" />
